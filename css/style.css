@@ -647,8 +647,8 @@ textarea.form-control {
 }
 
 .owl-carousel.major-caousel {
-  -webkit-box-shadow: 0 10px 70px -10px rgba(0, 0, 0, 0.2);
-  box-shadow: 0 10px 70px -10px rgba(0, 0, 0, 0.2);
+  /* -webkit-box-shadow: 0 10px 70px -10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 70px -10px rgba(0, 0, 0, 0.2); */
 }
 
 .owl-carousel.major-caousel .owl-stage-outer {
